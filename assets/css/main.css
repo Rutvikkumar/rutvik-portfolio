@@ -680,7 +680,7 @@ body.loaded {
 	}
 }
 .tj-header-area {
-	padding: 40px 0 20px;
+	padding: 10px 0 10px;
 	position: relative;
 	z-index: 9;
 	background-color: var(--tj-black-2);
@@ -698,7 +698,7 @@ body.loaded {
 	position: fixed;
 	top: -90px;
 	left: 0;
-	padding: 15px 0;
+	padding: 0px 0;
 	z-index: 100;
 	opacity: 0;
 	transition: 0.3s;
